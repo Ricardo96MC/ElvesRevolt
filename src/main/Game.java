@@ -38,7 +38,7 @@ public class Game extends Canvas implements Runnable {
 	private Store store;
 
 	/*
-	 * Enumerations of tghe different possible gameStates
+	 * Enumerations of the different possible gameStates
 	 * that allowd for easier transition
 	 */
 	public enum GAMESTATE {
